@@ -1,0 +1,12 @@
+
+.my-btn-style {
+    -fx-background-color: linear-gradient(#aaa 0%, #fff 100%);
+    -fx-text-fill: #000;
+    -fx-border-width: 2px;
+}
+
+.text-field {
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-border-radius: 2px;
+}
